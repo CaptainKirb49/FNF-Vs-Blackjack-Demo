@@ -1,0 +1,48 @@
+{
+	"storyName": "The Stakes Are High",
+	"hideFreeplay": false,
+	"weekBackground": "casino",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"songs": [
+		[
+			"riches",
+			"blackjack",
+			[
+				0,
+				255,
+				0
+			]
+		],
+		[
+			"double-or-nothing",
+			"blackjack",
+			[
+				0,
+				0,
+				93
+			]
+		],
+		[
+			"death-wish",
+			"blackjack",
+			[
+				0,
+				0,
+				0
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekName": "Custom Week"
+}

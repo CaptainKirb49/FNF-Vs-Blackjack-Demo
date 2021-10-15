@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Bop2.png">
+	<!-- Created with Adobe Animate version 20.5.0.29329 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="PeepBop20000" x="0" y="0" width="383" height="723"/>
+	<SubTexture name="PeepBop20001" x="0" y="0" width="383" height="723"/>
+	<SubTexture name="PeepBop20002" x="383" y="0" width="368" height="721" frameX="-15" frameY="-2" frameWidth="383" frameHeight="723"/>
+	<SubTexture name="PeepBop20003" x="383" y="0" width="368" height="721" frameX="-15" frameY="-2" frameWidth="383" frameHeight="723"/>
+	<SubTexture name="PeepBop20004" x="751" y="0" width="354" height="718" frameX="-29" frameY="-4" frameWidth="383" frameHeight="723"/>
+	<SubTexture name="PeepBop20005" x="751" y="0" width="354" height="718" frameX="-29" frameY="-4" frameWidth="383" frameHeight="723"/>
+	<SubTexture name="PeepBop20006" x="1105" y="0" width="340" height="715" frameX="-43" frameY="-7" frameWidth="383" frameHeight="723"/>
+	<SubTexture name="PeepBop20007" x="1105" y="0" width="340" height="715" frameX="-43" frameY="-7" frameWidth="383" frameHeight="723"/>
+	<SubTexture name="PeepBop20008" x="1105" y="0" width="340" height="715" frameX="-43" frameY="-7" frameWidth="383" frameHeight="723"/>
+	<SubTexture name="PeepBop20009" x="1105" y="0" width="340" height="715" frameX="-43" frameY="-7" frameWidth="383" frameHeight="723"/>
+	<SubTexture name="PeepBop20010" x="1105" y="0" width="340" height="715" frameX="-43" frameY="-7" frameWidth="383" frameHeight="723"/>
+	<SubTexture name="PeepBop20011" x="1105" y="0" width="340" height="715" frameX="-43" frameY="-7" frameWidth="383" frameHeight="723"/>
+	<SubTexture name="PeepBop20012" x="1105" y="0" width="340" height="715" frameX="-43" frameY="-7" frameWidth="383" frameHeight="723"/>
+	<SubTexture name="PeepBop20013" x="1105" y="0" width="340" height="715" frameX="-43" frameY="-7" frameWidth="383" frameHeight="723"/>
+</TextureAtlas>

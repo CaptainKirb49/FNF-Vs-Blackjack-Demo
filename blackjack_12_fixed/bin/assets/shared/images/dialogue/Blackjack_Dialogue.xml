@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Blackjack_Dialogue.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BjTalk0000" x="102" y="23" width="1025" height="861"/>
+	<SubTexture name="bjtalkloop0000" x="102" y="23" width="1025" height="861"/>
+	<SubTexture name="bjtalkloop0001" x="102" y="23" width="1025" height="861"/>
+	<SubTexture name="bjtalkloop0002" x="102" y="23" width="1025" height="861"/>
+	<SubTexture name="bjtalkloop0003" x="102" y="23" width="1025" height="861"/>
+	<SubTexture name="bjtalkloop0004" x="102" y="23" width="1025" height="861"/>
+	<SubTexture name="bjtalkloop0005" x="102" y="23" width="1025" height="861"/>
+</TextureAtlas>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Bop1.png">
+	<!-- Created with Adobe Animate version 20.5.0.29329 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="PeepBop10000" x="0" y="0" width="2327" height="611" frameX="0" frameY="-33" frameWidth="2327" frameHeight="644"/>
+	<SubTexture name="PeepBop10001" x="0" y="0" width="2327" height="611" frameX="0" frameY="-33" frameWidth="2327" frameHeight="644"/>
+	<SubTexture name="PeepBop10002" x="0" y="611" width="2327" height="622" frameX="0" frameY="-22" frameWidth="2327" frameHeight="644"/>
+	<SubTexture name="PeepBop10003" x="0" y="611" width="2327" height="622" frameX="0" frameY="-22" frameWidth="2327" frameHeight="644"/>
+	<SubTexture name="PeepBop10004" x="0" y="1233" width="2327" height="641" frameX="0" frameY="-3" frameWidth="2327" frameHeight="644"/>
+	<SubTexture name="PeepBop10005" x="0" y="1233" width="2327" height="641" frameX="0" frameY="-3" frameWidth="2327" frameHeight="644"/>
+	<SubTexture name="PeepBop10006" x="0" y="1874" width="2327" height="643" frameX="0" frameY="0" frameWidth="2327" frameHeight="644"/>
+	<SubTexture name="PeepBop10007" x="0" y="1874" width="2327" height="643" frameX="0" frameY="0" frameWidth="2327" frameHeight="644"/>
+	<SubTexture name="PeepBop10008" x="0" y="1874" width="2327" height="643" frameX="0" frameY="0" frameWidth="2327" frameHeight="644"/>
+	<SubTexture name="PeepBop10009" x="0" y="1874" width="2327" height="643" frameX="0" frameY="0" frameWidth="2327" frameHeight="644"/>
+	<SubTexture name="PeepBop10010" x="0" y="1874" width="2327" height="643" frameX="0" frameY="0" frameWidth="2327" frameHeight="644"/>
+	<SubTexture name="PeepBop10011" x="0" y="1874" width="2327" height="643" frameX="0" frameY="0" frameWidth="2327" frameHeight="644"/>
+	<SubTexture name="PeepBop10012" x="0" y="1874" width="2327" height="643" frameX="0" frameY="0" frameWidth="2327" frameHeight="644"/>
+	<SubTexture name="PeepBop10013" x="0" y="1874" width="2327" height="643" frameX="0" frameY="0" frameWidth="2327" frameHeight="644"/>
+</TextureAtlas>
